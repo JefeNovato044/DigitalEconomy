@@ -51,3 +51,6 @@ Industry 5.0 is only a few years away from us, currently many companies are work
 - [3] Huawei & Oxford Economics. (2017). Digital Spillover. Measuring the true impact of the Digital Economy. Retrieved from https://www.huawei.com/minisite/gci/en/digital-spillover/files/gci_digital_spillover.pdf
 
 #### Contributors
+- Jorge Aque
+- Jorge Erosa
+- Jack Robles
