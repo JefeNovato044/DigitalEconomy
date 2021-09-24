@@ -49,6 +49,7 @@ Data acquisition and analysis are critical elements in strategic measurement and
 <img src="https://github.com/JA-Erosa/DigitalEconomy/blob/main/Week03/StrategicDataAnalysis.png" width="500" height="350">
 </p>
 Different authors have long argued that data analysis allows individuals and organizations to better understand and identify factors that could trigger that need for a change in the strategy. These factors also become reliable because they can be verified, tracked to their root data and source. 
+
 ### Describe ICT patents
 
 THe ICT paterns baisclly ttries to make a whole protection of the different systems that are related to the ICT sector, this has become very useful, since 2004 the number of patents have increase dratically, in ten years the number of ITC patterns have increase at least 30%, which make it be a good indicator of how usefull they can be. There have been many different countries that have beeen working in the development of ITC projects, this because it has become a way to increase the income, so from this there are some specific countires that have been targeting this project and becoming a big part of the population that extends patterns.The countries that are most revelvant in this section are: USA, Japan and  China. 
