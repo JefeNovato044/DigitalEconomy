@@ -1,8 +1,8 @@
 # Questions 
-### 1.- Patents have been important all along the history, why do they work in the ICT context
+### 1.- Patents have been important all along the history, why do they work in the ICT context (Andres)
 The ICT patents baiscally tries to make a whole protection of the different systems that are related to the ICT sector, this has become very useful, since 2004 the number of patents have increase dratically, in ten years the number of ITC patterns have increase at least 30%.
                                                                           
-### 2.- Describe two indicators of the digital economy
+### 2.- Describe two indicators of the digital economy (Andres)
 
 Access.- This indicatore refere basically to the availability of the different regions all across the world, what is trying to measure the access indicator is the quality of the infrestructures where the people can have access to the internet, and with that be part of the connectivity of the Digital enviroment	
 
@@ -18,14 +18,14 @@ Trust.- It is the trust that the technologies generate on people, basically, bec
 
 Market openess.- To have an open makert where everyone is capable of trade and invest, is part of the mission of this main. Besides that, the ecommece has been also one of the ones that have become mas relevant because of the pandemic.
 
-### 3.- How was the impact in the agriculture?
+### 3.- How was the impact in the agriculture? (Andres)
 
 To equip all the different farms, in each of the parts of the process with sensors, provide very importnt information to the agricutures, and become very helpful in every stage of the process.
 
-### 4.- When we talk about the trust indicator, what is the approach that OECD has?
+### 4.- When we talk about the trust indicator, what is the approach that OECD has? (Andres)
 It is the trust that the technologies generate on people, basically, becuase in case that the tehcnologies that we know to keep using it is not a problem, but when you are trying another one it feels different and you feel more secure in the one we know, and that is why it is a challenge and and indicator
 
-### 5.- Make a list with all the different indicators.
+### 5.- Make a list with all the different indicators. (Andres)
 
 * Access
 * Use
