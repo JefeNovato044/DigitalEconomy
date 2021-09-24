@@ -45,9 +45,9 @@ You can also understand it as physical vs social planners in a way. While archit
 
 ### Strategic Data Analysis
 Data acquisition and analysis are critical elements in strategic measurement and control system effectiveness. A representative strategic data analysis process is illustrated in Figure 1., it contends that ‘strategic controllers’ should undertake such a process in order to better understand the underlying drivers of strategic results. 
-
-<img src="https://github.com/JA-Erosa/DigitalEconomy/blob/main/Week03/StrategicDataAnalysis.png" width="700" height="500">
-
+<p align="center">
+<img src="https://github.com/JA-Erosa/DigitalEconomy/blob/main/Week03/StrategicDataAnalysis.png" width="500" height="350">
+</p>
 Different authors have long argued that data analysis allows individuals and organizations to better understand and identify factors that could trigger that need for a change in the strategy. These factors also become reliable because they can be verified, tracked to their root data and source. 
 ### Describe ICT patents
 
