@@ -4,6 +4,12 @@
 - [The Information and Communication Technologies (ICT) Indicators](#The-Information-and-Communication-Technologies-(ICT)-Indicators)
 - [ICT-based business models](#ICT-based-business-models)
 - [Strategic Data Analysis](#Strategic-Data-Analysis)
+- [Describe ICT patents](#Describe-ICT-patents)
+- [Describe the impact in other areas: telecommunications, health, agriculture, science, energy.](#Describe-the-impact-in-other-areas:-telecommunications,-health,-agriculture,-science,-energy.)
+- [Identify the historical stages of the development of technology.](#Identify-the-historical-stages-of-the-development-of-technology.)
+- [Identify the relevant indicators of the digital economy.](#Identify-the-relevant-indicators-of-the-digital-economy.)
+- [Identify the impact of ICTs in other areas.](#Identify-the-impact-of-ICTs-in-other-areas.)
+- [References](#References)
 
 
 ### The growth of the digital economy
@@ -34,6 +40,7 @@ Due to everything happening because of COVID-19, we extended our digital technol
 
 ### ICT-based business models
 We could compare the work of an architect and the work of a manager, given the right conditions. An architect planning a building needs to father information about many things (environment, stakeholders, legal boundaries, etc.) as well as analyzing and discussing different ideas with their teams and investors. Once they have an idea, they can start sketching their way through meetings until it finally ends up on a set of plans. A manager works in the same way, creating a strategy and setting up a business model that can be considered viable, as well as overseeing the implementation in all aspects of it (processes, structure, and ICT). 
+
 You can also understand it as physical vs social planners in a way. While architects use sophisticated software tools to plan the buildings, managers on the other hand use word processors and maybe some graphical tools to plan and implement logic into their business. A modern manager on an ICT-based business model will focus on each point of the ICT indicators to plan the strategy, then on e-business opportunities for the business model and will end up with the company adapting to e-business processes. After all, the majority of recent publications of international organizations stress the fact that the encouragement and support of e-entrepreneurship is indispensable if developing countries don’t want to miss out on the possibilities of ICT.
 
 ### Strategic Data Analysis
