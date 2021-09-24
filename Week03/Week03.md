@@ -5,7 +5,7 @@
 - [ICT-based business models](#ICT-based-business-models)
 - [Strategic Data Analysis](#Strategic-Data-Analysis)
 - [Describe ICT patents](#Describe-ICT-patents)
-- [Describe the impact in other areas: telecommunications, health, agriculture, science, energy.](#Describe-the-impact-in-other-areas:-telecommunications,-health,-agriculture,-science,-energy.)
+- [Impact in telecommunications, health, agriculture, science & energy.](#Impact-in-telecommunications,-health,-agriculture,-science-&-energy.)
 - [Identify the historical stages of the development of technology.](#Identify-the-historical-stages-of-the-development-of-technology.)
 - [Identify the relevant indicators of the digital economy.](#Identify-the-relevant-indicators-of-the-digital-economy.)
 - [Identify the impact of ICTs in other areas.](#Identify-the-impact-of-ICTs-in-other-areas.)
@@ -49,7 +49,7 @@ You can also understand it as physical vs social planners in a way. While archit
 
 THe ICT paterns baisclly ttries to make a whole protection of the different systems that are related to the ICT sector, this has become very useful, since 2004 the number of patents have increase dratically, in ten years the number of ITC patterns have increase at least 30%, which make it be a good indicator of how usefull they can be. There have been many different countries that have beeen working in the development of ITC projects, this because it has become a way to increase the income, so from this there are some specific countires that have been targeting this project and becoming a big part of the population that extends patterns.The countries that are most revelvant in this section are: USA, Japan and  China. 
 
-### Describe the impact in other areas: telecommunications, health, agriculture, science, energy.
+### Impact in telecommunications, health, agriculture, science & energy.
 
 
 
