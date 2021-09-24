@@ -33,6 +33,8 @@ Due to everything happening because of COVID-19, we extended our digital technol
 - Evolution of ICT investments, as a percentage of total investments. Last updated October 2017
 
 ### ICT-based business models
+We could compare the work of an architect and the work of a manager, given the right conditions. An architect planning a building needs to father information about many things (environment, stakeholders, legal boundaries, etc.) as well as analyzing and discussing different ideas with their teams and investors. Once they have an idea, they can start sketching their way through meetings until it finally ends up on a set of plans. A manager works in the same way, creating a strategy and setting up a business model that can be considered viable, as well as overseeing the implementation in all aspects of it (processes, structure, and ICT). 
+You can also understand it as physical vs social planners in a way. While architects use sophisticated software tools to plan the buildings, managers on the other hand use word processors and maybe some graphical tools to plan and implement logic into their business. A modern manager on an ICT-based business model will focus on each point of the ICT indicators to plan the strategy, then on e-business opportunities for the business model and will end up with the company adapting to e-business processes. After all, the majority of recent publications of international organizations stress the fact that the encouragement and support of e-entrepreneurship is indispensable if developing countries don’t want to miss out on the possibilities of ICT.
 
 ### Strategic Data Analysis
 
@@ -64,5 +66,12 @@ There are many indicators that we can study an take advantage of accoding to dif
 ### Identify the impact of ICTs in other areas.
 
 
+### References
+
+https://www.ama.gov.pt/documents/24077/219772/OECD+Digital+Economy+Outlook+2020+(00000002).pdf/
+https://www.oecd.org/digital/broadband/oecdkeyictindicators.htm
+https://web.archive.org/web/20090306142402id_/http://faa.ir:80/articles/10.pdf
+https://www.markle.org/sites/default/files/doifinalreport.pdf
+http://www.g7.utoronto.ca/summit/2001genoa/dotforce1.html
 
 
