@@ -85,5 +85,5 @@ https://www.oecd.org/digital/broadband/oecdkeyictindicators.htm
 https://web.archive.org/web/20090306142402id_/http://faa.ir:80/articles/10.pdf
 https://www.markle.org/sites/default/files/doifinalreport.pdf
 http://www.g7.utoronto.ca/summit/2001genoa/dotforce1.html
-
+Ittner, C. D., & Larcker, D. F. (2005). Moving from strategic measurement to strategic data analysis. Controlling strategy, 86.
 
