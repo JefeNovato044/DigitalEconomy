@@ -80,10 +80,10 @@ There are many indicators that we can study an take advantage of accoding to dif
 
 ### References
 
-https://www.ama.gov.pt/documents/24077/219772/OECD+Digital+Economy+Outlook+2020+(00000002).pdf/
-https://www.oecd.org/digital/broadband/oecdkeyictindicators.htm
-https://web.archive.org/web/20090306142402id_/http://faa.ir:80/articles/10.pdf
-https://www.markle.org/sites/default/files/doifinalreport.pdf
-http://www.g7.utoronto.ca/summit/2001genoa/dotforce1.html
-Ittner, C. D., & Larcker, D. F. (2005). Moving from strategic measurement to strategic data analysis. Controlling strategy, 86.
+- [OECD Digital Economy Outlook 2020](https://www.ama.gov.pt/documents/24077/219772/OECD+Digital+Economy+Outlook+2020+(00000002).pdf/)
+- [OECD Key ICT Indicators](https://www.oecd.org/digital/broadband/oecdkeyictindicators.htm)
+- [Understanding ICT-based business models in developing countries](https://web.archive.org/web/20090306142402id_/http://faa.ir:80/articles/10.pdf)
+- [Creating a Development Dynamic](https://www.markle.org/sites/default/files/doifinalreport.pdf)
+- [Digital Opportunities for All: Meeting the Challenge](http://www.g7.utoronto.ca/summit/2001genoa/dotforce1.html)
+-[Moving from strategic measurement to strategic data analysis.](http://www.untag-smd.ac.id/files/Perpustakaan_Digital_2/PERFORMANCE%20MANAGEMENT%20Controlling%20Strategy%20-%20Management,%20Accounting,%20and%20Performance%20Measurement.pdf#page=99)
 
