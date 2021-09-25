@@ -94,6 +94,9 @@ There are many indicators that we can study an take advantage of accoding to dif
 
 ### Identify the impact of ICTs in other areas.
 
+As Home and Domestic Activities: We can connect and controls domestic equipments (such as washing machine, refrigerator,  cell-phones, laptops  etc.). Carry out  net banking,  online shopping,  read  newspapers  online,  watch  TV  programs,  impart  education  and  connects ourselves to our family, friends, or relatives while we are at long distance by using the e-mail, messenger, call-conference, or video-conference.  
+As  Social  Networking:  There are many social networking sites are available like FACEBOOK, ORKUT, TWITTER, and LINKEDIN which allows users to communicate and stay connected with each other across the globe regularly.
+As Education/E-Learning: E-Learning is an electronic learning, in which the learner uses a computer to learn a task, skill, or process at that time teacher teaches through the computer online. Students can learn by watching videos, e-books, discussion groups, bulletin boards, blogs and e-learning in a collaborate environment. Students can also ask question to their teacher using emails.
 
 ### References
 
