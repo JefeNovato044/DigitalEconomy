@@ -51,3 +51,17 @@ It is the trust that the technologies generate on people, basically, becuase in 
 
 ### 13.- What do you think the next economy will be, how would you call it, and why?
 
+### 14.- According to what you have read, explain which of the latest technologies have come with  more conflicts, and why? (Danilo)
+
+### 15.- How important you think is the development of new patents, and why should they be under the same framework? (Danilo)
+
+### 16.- What industrie is the one you think has been freezed on the time, and they havent renovate themselfs at all? (Danilo)
+
+### 17.- Do you think that an easier communication comes with more innvovative solutions? Why? (Danilo)
+
+### 18.- What are the main strategic controlles used in data analysis? (Danilo)
++ Cata Collection
++ Analysis and Interpretation
++ Communicating
++ Linkage analysis
++ Results
