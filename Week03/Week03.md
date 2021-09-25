@@ -69,7 +69,10 @@ In terms of science and enery, has also been an important factor, in this case, 
 
 ### Identify the historical stages of the development of technology.
 
-As it was explained before there are some changes in the number of patents that have been de
+Identify the historical stages of the development of technology.
+
+In the following image, we can take a look at the amount of time it took for a new technology to reach a state of mass adoption. Every technology was invented to solve a problem. For example, search engines were created to segregate massive amounts of online data and pick out the most relevant ones. With every new upgrade, technology keeps improving. Platforms get better and expand what they can accomplish. The more often this happens, technology evolves to become the vital necessity it is today.
+
 
 
 ### Identify the relevant indicators of the digital economy.
