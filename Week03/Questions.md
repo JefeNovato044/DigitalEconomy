@@ -34,3 +34,20 @@ It is the trust that the technologies generate on people, basically, becuase in 
 * Society
 * Trust
 * Market Openess
+
+### 6.- Do you think ICT Indicators focus on the correct things, or could it be improved somehow? (Erosa)
+
+### 7.- How would you compare an architect to a manager of an ICT-based business? Do you think you it's a fair comparison? (Erosa)
+
+### 8.- What did you understand by Strategic Data Analysis? (Erosa)
+
+### 9.- How do you think COVID has influenced the growth of Digital Economy? (Erosa)
+
+### 10.- Why did Strategic Data Analysis appeared or what did it change? (Erosa)
+
+### 11.- What do you think a Strategic Data Analysis process should include? (Erosa)
+
+### 12.- How do you think the growth of Digital Economy has influenced your life? (Erosa)
+
+### 13.- What do you think the next economy will be, how would you call it, and why?
+
