@@ -25,7 +25,7 @@ To equip all the different farms, in each of the parts of the process with senso
 ### 4.- When we talk about the trust indicator, what is the approach that OECD has? (Andres)
 It is the trust that the technologies generate on people, basically, becuase in case that the tehcnologies that we know to keep using it is not a problem, but when you are trying another one it feels different and you feel more secure in the one we know, and that is why it is a challenge and and indicator
 
-### 5.- Make a list with all the different indicators. (Andres)
+### 5.- Make a list with all the differentICT indicators. (Andres)
 
 * Access
 * Use
