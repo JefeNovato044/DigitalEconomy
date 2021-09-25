@@ -103,4 +103,4 @@ There are many indicators that we can study an take advantage of accoding to dif
 - [Creating a Development Dynamic](https://www.markle.org/sites/default/files/doifinalreport.pdf)
 - [Digital Opportunities for All: Meeting the Challenge](http://www.g7.utoronto.ca/summit/2001genoa/dotforce1.html)
 - [Moving from strategic measurement to strategic data analysis.](http://www.untag-smd.ac.id/files/Perpustakaan_Digital_2/PERFORMANCE%20MANAGEMENT%20Controlling%20Strategy%20-%20Management,%20Accounting,%20and%20Performance%20Measurement.pdf#page=99)
-
+[Technology and Innovation](https://courses.lumenlearning.com/boundless-management/chapter/technology-and-innovation/)
