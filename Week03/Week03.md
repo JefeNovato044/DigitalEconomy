@@ -74,7 +74,7 @@ In the following image, we can take a look at the amount of time it took for a n
 
 As new ideas get transformed into new forms of technologies, these new technologies are all set to become future mechanisms of future technologies. Existing technologies progress into something way more powerful and superior to what we had previously. 
 <p align="center">
-<img src=" https://github.com/JA-Erosa/DigitalEconomy/blob/main/Week03/TechMass.png" width="500" height="350">
+<img src="https://github.com/JA-Erosa/DigitalEconomy/blob/main/Week03/TechMass.png" width="500" height="350">
 </p>
 
 The proliferation of innovation pertains to two important factors of technology driving innovation: the creation of geographic hubs for technology and empowerment of knowledge exchange through communication and transportation. Places like California’s Silicon Valley and Baden-Wurttenberg in Germany are strong examples of the value of technological hubs. The close proximity of various resources and collaborators in each hub stimulates a higher degree of innovative capacity.
