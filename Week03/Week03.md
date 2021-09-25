@@ -77,6 +77,9 @@ As new ideas get transformed into new forms of technologies, these new technolog
 <img src=" https://github.com/JA-Erosa/DigitalEconomy/blob/main/Week03/TechMass.png" width="500" height="350">
 </p>
 
+The proliferation of innovation pertains to two important factors of technology driving innovation: the creation of geographic hubs for technology and empowerment of knowledge exchange through communication and transportation. Places like California’s Silicon Valley and Baden-Wurttenberg in Germany are strong examples of the value of technological hubs. The close proximity of various resources and collaborators in each hub stimulates a higher degree of innovative capacity.
+Communication and cumulative knowledge in these technology hubs allows for these innovations to spread via technology to be implemented across the globe with relative immediacy. This spread of ideas can be built upon quickly and universally, creating the ability for innovation to be further expanded upon by different parties across the globe. Collaboration on a global scale as a result of technological progress has allowed for exponential levels of innovation.
+
 
 ### Identify the relevant indicators of the digital economy.
 
