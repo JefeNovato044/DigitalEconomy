@@ -113,3 +113,4 @@ As Employment/Jobs: ICT increases the number of employments in our society. Peop
 - [Moving from strategic measurement to strategic data analysis.](http://www.untag-smd.ac.id/files/Perpustakaan_Digital_2/PERFORMANCE%20MANAGEMENT%20Controlling%20Strategy%20-%20Management,%20Accounting,%20and%20Performance%20Measurement.pdf#page=99)
 [Technology and Innovation](https://courses.lumenlearning.com/boundless-management/chapter/technology-and-innovation/)
 [History and Evolution of Technology](https://nation.com.pk/23-Jul-2018/history-and-evolution-of-technology)
+[ICT in our everyday life](https://www.researchgate.net/publication/325570282_Positive_and_Negative_Impacts_of_Information_and_Communication_Technology_in_our_Everyday_Life)
