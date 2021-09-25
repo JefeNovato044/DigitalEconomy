@@ -98,6 +98,11 @@ As Home and Domestic Activities: We can connect and controls domestic equipments
 As  Social  Networking:  There are many social networking sites are available like FACEBOOK, ORKUT, TWITTER, and LINKEDIN which allows users to communicate and stay connected with each other across the globe regularly.
 As Education/E-Learning: E-Learning is an electronic learning, in which the learner uses a computer to learn a task, skill, or process at that time teacher teaches through the computer online. Students can learn by watching videos, e-books, discussion groups, bulletin boards, blogs and e-learning in a collaborate environment. Students can also ask question to their teacher using emails.
 
+As Health: When we get sick, we don't like to go outside even to visit the doctors. It is helpful to medical students to learn about disease, medicines, and surgeries through video-conferencing.
+As  Shopping/Commerce:  It makes buying and selling activities easier, more efficient and faster by using computers, internet and shared software.
+As Banking: Banking helped  us to buy things using E-commerce.  It carries out electronic transactions through Debit/Credit cards, net banking and Air/Rail tickets booking at anyplace at anytime with the use our same banking account. We can save our time, access accounts for loan applications, transactions and update our cash flow at any time. Banking is facilitated with virtual money so it introduces an Eco-friendly world.  
+As Employment/Jobs: ICT increases the number of employments in our society. People can work as Web developer, IT network administrator, etc who have skills in ICT.  It gives new job opportunities for many people to become successful  self-employer to work from their home.
+
 ### References
 
 - [OECD Digital Economy Outlook 2020](https://www.ama.gov.pt/documents/24077/219772/OECD+Digital+Economy+Outlook+2020+(00000002).pdf/)
