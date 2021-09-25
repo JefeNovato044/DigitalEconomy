@@ -72,6 +72,11 @@ In terms of science and enery, has also been an important factor, in this case, 
 In the following image, we can take a look at the amount of time it took for a new technology to reach a state of mass adoption. Every technology was invented to solve a problem. For example, search engines were created to segregate massive amounts of online data and pick out the most relevant ones. With every new upgrade, technology keeps improving. Platforms get better and expand what they can accomplish. The more often this happens, technology evolves to become the vital necessity it is today.
 
 
+As new ideas get transformed into new forms of technologies, these new technologies are all set to become future mechanisms of future technologies. Existing technologies progress into something way more powerful and superior to what we had previously. 
+<p align="center">
+<img src=" https://github.com/JA-Erosa/DigitalEconomy/blob/main/Week03/TechMass.png" width="500" height="350">
+</p>
+
 
 ### Identify the relevant indicators of the digital economy.
 
