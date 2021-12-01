@@ -1,3 +1,5 @@
+# Team : Jorge Aque, Jack Robles
+
 ## Describe the public acceptance of the technology.
 
 Technology is a subject that sometimes co-merges a lot with the image of an artifact with lights and a lot of cables, basically technology is any artifact that helps the progression of the human being, that is, even a simple hammer that technology, of course , this was given for a long time but technology has almost always existed, only that it has been in different essences, the acceptance of technology has been something that cannot be denied today, technology has progressed gradually slowly that we do not realize that we are evolving and improving it, for us, every physical and digital artifact is already something of our daily life, it will continue to be improved over the years and we will not care since it is for our progression, of course issues have arisen as they can be dangerous for health and the like but something must be sure, humans will always use technology day by day.
