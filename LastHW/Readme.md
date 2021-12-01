@@ -1,4 +1,4 @@
-# Team : Jorge Aque, Jack Robles
+# Team : Jorge Aque, Jack Robles, Jorge Erosa
 
 ## Describe the public acceptance of the technology.
 
