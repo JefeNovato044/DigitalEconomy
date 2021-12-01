@@ -1,4 +1,4 @@
-# Team : Jorge Aque, Jack Robles, Jorge Erosa
+# Team : Jorge Aque, Jack Robles
 
 ## Describe the public acceptance of the technology.
 
@@ -28,5 +28,23 @@ Being able to have the ability to communicate as a work team or individual perso
 ## Describe the existing regulation in Employment, Ethics, politics and the data science related regulation.
 
 For this section we can understand in a simple way what are the regulations given by companies and the government to protect information from possible malicious use. As we have already seen, today there is so much information that can be put together with which various types of crimes can be made to people or companies in general, therefore, there are several laws and regulations that support the integrity of the data for its exclusive use. There are basic regulations to take the necessary care about the information, for example, that the origin of the information obtained is legal and real, this means that any type of information that we share has a real antecedent with well-built bases, on the other hand there is the moral decision, that is, in the aspect of data science sometimes advanced models usually make predictions but do not have the moral that a person has, therefore, you do not always have to trust computer decisions, rather, we must take care of the final decision we make. Privacy is another very important issue, all information obtained should respect people's private information, that is, all information that can be used against the person must be used in a moral way if used. In the same way, we must take care of the things we share, it is ethics on the internet, as we know the internet is usually a site open to all public and normally everything that remains on the internet is very difficult to erase, therefore all Information shared has to be seriously reviewed.
+
+
+## Describe security strategies and their regulation.
+
+There are many security strategies and regulations depending on what is the thing is wanted to be secured. Since digital economy is conformed by variation of components, which differ on characteristics, from the hardware where the data is saved, the software for transactions, and the people who is part of the economy; for give some examples. 
+For example, hardware security requires security of the installation, and strict control of who are able to operate that hardware, also some other measures against natural phenomena have to be taken into account.
+As for software concerns, there are methodologies of method that should be implemented on applications for being protected so they avoid vulnerabilities and if any vulnerability, do not expose them. 
+For the user, privacy is an important topic, which lead to the data anonymization, which is the process of anonymization personal information, to make sure the data of people is private. 
+
+## Identify the regulatory framework and institutions that affect the digital economy.
+Regulatory frameworks refer to the strategies, rules and the division of power distributed among many institutions, with the idea of regulating, in this case, the digital economy. In the specific case of digital economy, the old institutions and policies designed by a less competitive era, are now incapable leading to an economic welfare; therefore, new policies and more modernized institutions are takin the lead on those frameworks.
+The GSAM, is a global specialist firm which is business is applying economic and financial principles to complex business challenges, creating a new framework to be according to modern times.
+ 
+The main objective of the of this framework, is to identify and try to cushion, if possible, market our comes and shortages, leading to an economic welfare. Three key principles are:
+
+- Regulations should be redesigned around a functionality-based approach.
+- Regulation should be reduced or eliminated when justified by market changes, and for areas where regulation is still needed, static, prescriptive regimes should be replaced with dynamic regulation.
+- Regulators should take a bottom-up approach that includes re-examining all aspects of legacy policies.
 
 
